@@ -1,14 +1,14 @@
 const produtos = [
-  { codigo: "P001", nome: "A Vez da Penélope", tipo: "Esmalte", acabamento: "Cremoso", cor: "Rosa claro", imagem: "A vez da Penelope.jpg" },
-  { codigo: "P002", nome: "Amor Perolado", tipo: "Esmalte", acabamento: "Perolado", cor: "Rosa claro", imagem: "Amor Perolado.jpg" },
-  { codigo: "P003", nome: "Bali Cremoso", tipo: "Esmalte", acabamento: "Cremoso", cor: "Rosa queimado", imagem: "Bali Cremoso.jpg" },
-  { codigo: "P004", nome: "Batida de Coco", tipo: "Esmalte", acabamento: "Cremoso", cor: "Branco leitoso", imagem: "Batida de Coco.jpg" },
-  { codigo: "P005", nome: "Beleza Rara Cremoso", tipo: "Esmalte", acabamento: "Cremoso", cor: "Rosa antigo", imagem: "Beleza Rara Cremoso.jpg" },
-  { codigo: "P006", nome: "Base Bomba", tipo: "Base", acabamento: "Fortalecedora", cor: "Incolor", imagem: "Base Bomba.jpg" },
-  { codigo: "P007", nome: "Base Crescimento", tipo: "Base", acabamento: "Tratamento", cor: "Incolor", imagem: "Base Crescimento.jpg" },
-  { codigo: "P008", nome: "Base Endurecedoura", tipo: "Base", acabamento: "Endurecedoura", cor: "Incolor", imagem: "Base Endurecedoura.jpg" },
-  { codigo: "P009", nome: "Base fosca", tipo: "Base", acabamento: "Fosca", cor: "Translúcida", imagem: "Base fosca.jpg" },
-  { codigo: "P010", nome: "Base Revitalizante", tipo: "Base", acabamento: "Revitalizante", cor: "Incolor", imagem: "Base Revitalizante.jpg" }
+  { codigo: "P001", nome: "A Vez da Penélope", tipo: "Esmalte", acabamento: "Cremoso", cor: "Rosa claro", imagem: "a-vez-da-penelope.jpg" },
+  { codigo: "P002", nome: "Amor Perolado", tipo: "Esmalte", acabamento: "Perolado", cor: "Rosa claro", imagem: "amor-perolado.jpg" },
+  { codigo: "P003", nome: "Bali Cremoso", tipo: "Esmalte", acabamento: "Cremoso", cor: "Rosa queimado", imagem: "bali-cremoso.jpg" },
+  { codigo: "P004", nome: "Batida de Coco", tipo: "Esmalte", acabamento: "Cremoso", cor: "Branco leitoso", imagem: "batida-de-coco.jpg" },
+  { codigo: "P005", nome: "Beleza Rara Cremoso", tipo: "Esmalte", acabamento: "Cremoso", cor: "Rosa antigo", imagem: "beleza-rara-cremoso.jpg" },
+  { codigo: "P006", nome: "Base Bomba", tipo: "Base", acabamento: "Fortalecedora", cor: "Incolor", imagem: "base-bomba.jpg" },
+  { codigo: "P007", nome: "Base Crescimento", tipo: "Base", acabamento: "Tratamento", cor: "Incolor", imagem: "base-crescimento.jpg" },
+  { codigo: "P008", nome: "Base Endurecedora", tipo: "Base", acabamento: "Endurecedora", cor: "Incolor", imagem: "base-endurecedora.jpg" },
+  { codigo: "P009", nome: "Base Fosca", tipo: "Base", acabamento: "Fosca", cor: "Translúcida", imagem: "base-fosca.jpg" },
+  { codigo: "P010", nome: "Base Revitalizante", tipo: "Base", acabamento: "Revitalizante", cor: "Incolor", imagem: "base-revitalizante.jpg" }
 ];
 
 const container = document.getElementById("catalogo");
